@@ -1,0 +1,1 @@
+Plugin for creating a personal account on Wordpress
